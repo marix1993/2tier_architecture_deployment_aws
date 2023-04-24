@@ -1,6 +1,8 @@
 Two-tier architecture in AWS
 -
 
+![Diagram.png](files%2FDiagram.png)
+
 First launch an AWS instance:
 1. Choose proper name.
 2. Choose appropriate system :`Canonical, Ubuntu, 18.04 LTS, amd64 bionic image build on 2022-06-10`
